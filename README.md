@@ -32,7 +32,18 @@ Directions for use
     * To clean up the object files, run `Remove-Item *.o` in **PowerShell**, or `del *.o` in **Command Prompt**.
     * Run `./app.exe` to run the project.
 
-GitHub Repository
------------------
+![](ss1.png)
+
+![](ss2.png)
+
+![](ss3.png)
+
+![](ss4.png)
+
+![](ss5.png)
+
+![](ss6.png)
+
+
 
 To access the GitHub Repository for this project, click [here](https://www.tinyurl.com/cendsem)
